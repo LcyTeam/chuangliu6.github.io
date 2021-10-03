@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "iOS - 添加一个全局悬浮按钮"
+title:      "iOS - 添加一个全局悬浮按钮liuchaoyang"
 subtitle:   "集成pods版"
 date:       2019-01-30 16:00:00
 author:     "miniLV"
